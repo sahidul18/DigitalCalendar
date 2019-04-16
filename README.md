@@ -7,6 +7,5 @@
    * Below is a picture of the program when it is run.
 
 
-     ![Calendar](image/calendar.PNG)
 
-     <img src="image/calendar.PNG" width="500">
+     <img src="image/calendar.PNG" width="650">
